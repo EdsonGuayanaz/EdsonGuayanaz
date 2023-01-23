@@ -1,7 +1,7 @@
 ## Seja muito bem vindo! Eu sou o Edson Guayanaz
 
 - 🔭 Estou em busca de emprego como junior front-end dev.
-- 🌱 Estou estudando JavaScript.
+- 🌱 Estou estudando JavaScript,Nodejs e React.
 
 <div align="center">
   <a href="https://github.com/EdsonGuayanaz">
